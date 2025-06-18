@@ -1,0 +1,78 @@
+.gridConteiner {
+    display: grid;
+    grid-template-columns: 250px 1fr;
+    grid-template-rows: 80px 1fr;
+    height: 100vh;
+}
+
+.mainContent {
+    grid-column: 2 / 3;
+    padding: 20px;
+    background-color: #f4f4f9;
+}
+
+h1 {
+    font-size: 1.8rem;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+.searchContainer {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.searchContainer input {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #3498db;
+    border-radius: 5px;
+    font-size: 1rem;
+    color: #2c3e50;
+    margin: 15px 0;
+}
+
+.searchButton {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchButton i {
+    font-size: 1rem;
+}
+
+
+.alunosTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.alunosTable th, .alunosTable td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+.alunosTable th {
+    background-color: #3498db;
+    color: white;
+    font-weight: bold;
+}
+
+.alunosTable tr:nth-child(even) {
+    background-color: #f4f4f9;
+}
+
+.alunosTable tr:hover {
+    background-color: #ddd;
+}
