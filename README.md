@@ -4,7 +4,7 @@
 <br/>
 
 <p align="center">
-  <img src="C:\Projetos_Pessoal\facetec\public\logofacetec.png" width="60%" alt="Facetec Logo"/>
+  <img src="https://github.com/franciscopaes/facetec/blob/main/public/logofacetec.png" width="25%" alt="Facetec Logo"/>
 </p>
 
 <br/>
