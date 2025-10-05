@@ -27,7 +27,7 @@
 
 ## 📖 Sobre o Projeto
 
-O Facetec é um sistema de gestão escolar desenvolvido como Trabalho de Conclusão de Curso (TCC) no curso técnico em Desenvolvimento de Sistemas da Etec de Hortolândia. O projeto, criado em 2024, visa aprimorar a organização e o monitoramento de alunos, fornecendo ferramentas que auxiliam a direção da escola na gestão diária.
+O Facetec é um sistema de gestão escolar desenvolvido como Trabalho de Conclusão de Curso (TCC) no curso técnico em Desenvolvimento de Sistemas da Etec de Hortolândia. O projeto, criado em 2024, visa aprimorar a organização e o monitoramento dos alunos, fornecendo ferramentas que auxiliam a direção da escola.
 
 ---
 
